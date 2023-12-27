@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HiImWhite, Polish IT Student on the last year of Poznan University of Technology.
-- 👀 I’m interested in NFT, VR games, Web development.
-- 🌱 I’m currently improving in HTML, CSS, JS, React, TypeScript
-- 🌱 I'm working on Master Deggree application -> NFT Mint Site.
+- 👋 Hi, I’m @HiImWhite, Junior Software Engineer at The BitByBit Company.
+- 👀 I’m interested in NFT, VR games, Web development and blockchain technology.
+- 🌱 I’m currently improving JS, React, TypeScript, Python, Django, Flask.
+- 🌱 I've finished my Master Deggree in CS, creating NFT Minting App. 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=HiImWhite&theme=elegant&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
